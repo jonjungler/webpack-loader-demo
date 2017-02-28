@@ -1,2 +1,4 @@
 # webpack-loader-demo
-test for webpack
+test for webpack/<br>
+## install
+npm install
