@@ -1,4 +1,5 @@
+#webpack简单使用
 # webpack-loader-demo
-test for webpack/<br>
+test for webpack<br>
 ## install
-npm install
+<pre>npm install</pre>
